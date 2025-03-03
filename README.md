@@ -1,51 +1,10 @@
-
-<html lang="en-US">
-  <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-
-<!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>news</title>
-<meta name="generator" content="Jekyll v3.10.0" />
-<meta property="og:title" content="news" />
-<meta property="og:locale" content="en_US" />
-<link rel="canonical" href="https://harianmedan.github.io/news/" />
-<meta property="og:url" content="https://harianmedan.github.io/news/" />
-<meta property="og:site_name" content="news" />
-<meta property="og:type" content="website" />
-<meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="news" />
-<script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebSite","headline":"news","name":"news","url":"https://harianmedan.github.io/news/"}</script>
-<!-- End Jekyll SEO tag -->
-
-    <link rel="stylesheet" href="/news/assets/css/style.css?v=c25ba277c5efc371cb6e84118d656e54df043c4b">
-    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
-
-<!-- Setup Google Analytics -->
-
-
-
-<!-- You can set your favicon here -->
-<!-- link rel="shortcut icon" type="image/x-icon" href="/news/favicon.ico" -->
-
-<!-- end custom head snippets -->
-
-  </head>
-  <body>
-    <div class="container-lg px-3 my-5 markdown-body">
-      
-      <h1><a href="https://harianmedan.github.io/news/">news</a></h1>
-      
-
-      <html lang="id">
+<html lang="id">
 <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="description" content="Harian Medan - Berita terbaru dan informasi terkini seputar kasino online, teknologi imersif, dan perkembangan industri perjudian digital yang akan membawa pengalaman bermain yang lebih transparan dan menarik." />
-    <meta name="keywords" content="Harian Medan, kasino online, berita kasino, info terkini, Live RTP, update perjudian, inovasi teknologi, VR, AR, regulasi kasino, psikologi permainan, teknologi canggih, industri perjudian digital" />
-    <meta name="author" content="Harian Medan Berbagi 2025" />
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Harian Medan - Berita terbaru dan informasi terkini seputar kasino online, teknologi imersif, dan perkembangan industri perjudian digital yang akan membawa pengalaman bermain yang lebih transparan dan menarik.">
+    <meta name="keywords" content="Harian Medan, kasino online, berita kasino, info terkini, Live RTP, update perjudian, inovasi teknologi, VR, AR, regulasi kasino, psikologi permainan, teknologi canggih, industri perjudian digital">
+    <meta name="author" content="Harian Medan Berbagi 2025">
     <title>Harian Medan - Update Terkini Kasino Online</title>
     <style>
         body {
@@ -55,7 +14,7 @@
             background-color: #e3e3e3;
         }
         header {
-            background-color: #00ff6a;
+            background-color: #0cc93b;
             color: white;
             padding: 20px 0;
             text-align: center;
@@ -88,7 +47,7 @@
             text-decoration: none;
         }
         nav ul li a:hover {
-            color: #00ff6a;
+            color: #0cc93b;
         }
         main {
             padding: 30px;
@@ -101,7 +60,7 @@
             box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
         }
         h2 {
-            color: #00ff6a;
+            color: #0cc93b;
             font-size: 28px;
             margin-bottom: 15px;
         }
@@ -130,7 +89,7 @@
             margin: 20px 0;
             padding: 15px 20px;
             background-color: #f9f9f9;
-            border-left: 5px solid #00ff6a;
+            border-left: 5px solid #0cc93b;
             font-style: italic;
         }
         footer {
@@ -218,11 +177,3 @@
         <p>&copy; 2025 Harian Medan. Semua Hak Cipta Dilindungi.</p>
     </footer>
 </body>
-</html>
-
-
-      
-    </div>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
-    <script>anchors.add();</script>
-  </body>
