@@ -5,7 +5,7 @@
     <meta name="description" content="Harianmedan - Berita terbaru dan informasi terkini seputar kasino online, teknologi imersif, dan perkembangan industri perjudian digital yang akan membawa pengalaman bermain yang lebih transparan dan menarik.">
     <meta name="keywords" content="Harianmedan, kasino online, berita kasino, info terkini, Live RTP, update perjudian, inovasi teknologi, VR, AR, regulasi kasino, psikologi permainan, teknologi canggih, industri perjudian digital">
     <meta name="author" content="Harianmedan Berbagi 2025">
-    <title>Harianmedan - Update Terkini Kasino Online</title>
+    <title>Harian Medan - Update Terkini Kasino Online</title>
     <style>
         body {
             font-family: 'Arial', sans-serif;
