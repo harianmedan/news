@@ -1,10 +1,51 @@
-<html lang="id">
-<head>
+
+<html lang="en-US">
+  <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Harianmedan - Berita terbaru dan informasi terkini seputar kasino online, teknologi imersif, dan perkembangan industri perjudian digital yang akan membawa pengalaman bermain yang lebih transparan dan menarik.">
-    <meta name="keywords" content="Harianmedan, kasino online, berita kasino, info terkini, Live RTP, update perjudian, inovasi teknologi, VR, AR, regulasi kasino, psikologi permainan, teknologi canggih, industri perjudian digital">
-    <meta name="author" content="Harianmedan Berbagi 2025">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>news</title>
+<meta name="generator" content="Jekyll v3.10.0" />
+<meta property="og:title" content="news" />
+<meta property="og:locale" content="en_US" />
+<link rel="canonical" href="https://harianmedan.github.io/news/" />
+<meta property="og:url" content="https://harianmedan.github.io/news/" />
+<meta property="og:site_name" content="news" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="news" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebSite","headline":"news","name":"news","url":"https://harianmedan.github.io/news/"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/news/assets/css/style.css?v=c25ba277c5efc371cb6e84118d656e54df043c4b">
+    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+
+<!-- Setup Google Analytics -->
+
+
+
+<!-- You can set your favicon here -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="/news/favicon.ico" -->
+
+<!-- end custom head snippets -->
+
+  </head>
+  <body>
+    <div class="container-lg px-3 my-5 markdown-body">
+      
+      <h1><a href="https://harianmedan.github.io/news/">news</a></h1>
+      
+
+      <html lang="id">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Harian Medan - Berita terbaru dan informasi terkini seputar kasino online, teknologi imersif, dan perkembangan industri perjudian digital yang akan membawa pengalaman bermain yang lebih transparan dan menarik." />
+    <meta name="keywords" content="Harian Medan, kasino online, berita kasino, info terkini, Live RTP, update perjudian, inovasi teknologi, VR, AR, regulasi kasino, psikologi permainan, teknologi canggih, industri perjudian digital" />
+    <meta name="author" content="Harian Medan Berbagi 2025" />
     <title>Harian Medan - Update Terkini Kasino Online</title>
     <style>
         body {
@@ -105,7 +146,7 @@
 </head>
 <body>
     <header>
-        <h1>Harianmedan</h1>
+        <h1>Harian Medan</h1>
         <p>Berita Terbaru Dunia Kasino Online dan Teknologi Imersif</p>
     </header>
 
@@ -174,6 +215,14 @@
     </main>
 
     <footer>
-        <p>&copy; 2025 Harianmedan. Semua Hak Cipta Dilindungi.</p>
+        <p>&copy; 2025 Harian Medan. Semua Hak Cipta Dilindungi.</p>
     </footer>
 </body>
+</html>
+
+
+      
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script>
+  </body>
