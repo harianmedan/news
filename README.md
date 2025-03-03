@@ -174,6 +174,6 @@
     </main>
 
     <footer>
-        <p>&copy; 2025 Harian Medan. Semua Hak Cipta Dilindungi.</p>
+<p>&copy; 2025 Harian Medan. Semua Hak Cipta Dilindungi.</p>
     </footer>
 </body>
