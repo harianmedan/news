@@ -14,7 +14,7 @@
             background-color: #e3e3e3;
         }
         header {
-            background-color: #ff1500;
+            background-color: #00ff6a;
             color: white;
             padding: 20px 0;
             text-align: center;
@@ -47,7 +47,7 @@
             text-decoration: none;
         }
         nav ul li a:hover {
-            color: #ff1500;
+            color: #00ff6a;
         }
         main {
             padding: 30px;
@@ -60,7 +60,7 @@
             box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
         }
         h2 {
-            color: #ff1500;
+            color: #00ff6a;
             font-size: 28px;
             margin-bottom: 15px;
         }
@@ -89,7 +89,7 @@
             margin: 20px 0;
             padding: 15px 20px;
             background-color: #f9f9f9;
-            border-left: 5px solid #ff1500;
+            border-left: 5px solid #00ff6a;
             font-style: italic;
         }
         footer {
@@ -174,6 +174,6 @@
     </main>
 
     <footer>
-        <p>&copy; 2025 Berita-Harianmedan. Semua Hak Cipta Dilindungi.</p>
+        <p>&copy; 2025 Harianmedan. Semua Hak Cipta Dilindungi.</p>
     </footer>
 </body>
